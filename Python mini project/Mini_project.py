@@ -41,3 +41,20 @@ for name in passing_students:
 print("\nStudents Needing Extra Help:")
 for name in failing_students:
     print(name)
+
+
+#output:-
+#Alice: Score = 85, Grade = B
+#Bob: Score = 42, Grade = F
+#Charlie: Score = 95, Grade = A
+#David: Score = 68, Grade = D
+#Eva: Score = 73, Grade = C
+
+#Passing Students:
+#Alice
+#Charlie
+#David
+#Eva
+
+#Students Needing Extra Help:
+#Bob
